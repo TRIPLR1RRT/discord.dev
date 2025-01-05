@@ -1,7 +1,7 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs/discord.js",
-	"version": "0.0.0",
+	"name": "@TRIPLR1RRT@discord.dev",
+	"version": "1.0.0",
 	"description": "A powerful library for interacting with the Discord API",
 	"private": true,
 	"scripts": {
